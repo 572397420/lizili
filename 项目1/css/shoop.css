@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+.margin{width:100%;margin:0 auto;}
+
+#dingbu img{height:50px;width:1263px;}
+
+.box{width:1200px;height:35px;background:#f2f2f2;margin:0 auto;}
+
+#header{background:#f2f2f2;}
+.header_left{float: left;font:12px/35px "";color:#999999;text-align:center;}
+.ae{margin-left:20px;}
+.aw:hover{color:black;}
+.ae:hover{color: black;}
+
+.header_right{float:right;overflow: hidden;}
+.header_right ul li{float: left;margin-left: 15px;font: 10px/34px "";}
+.header_right .nf{color: #00746e;}
+
+#banner{height:120px;}
+.logo{float: left;margin:12px 0 0 38px;}
+.search{float: left;padding:25px 0 0 120px;}
+.search form .tet{float:left;width:346px;height:34px;border:none;border:3px solid #ff5500;}
+.sub{float:left;width:80px;height:40px;background:#ff5500;border:none;color:#fff;}
+.search ul{float:left;}
+.search ul li{float:left;margin-right:6px;font:12px/28px "";}
+.search ul li a{color:#666666;}
+.search ul li a:hover{color:#ff4400;}
+.shoop{width:120px;height:34px;float:left;border:2px solid #dfdfdf;margin:26px 0 0 32px;font: 12px/34px "";}
+.shoop i{margin-left:5px;}
+/* .xinpian img{width:147px;height:120px;float:right;margin-right:93px;position: relative;} */
+
+#np{width:100%;height:588px;border-top:2px solid green;}
+.nn{margin:10px 0 0 30px;}
+.nn span{color:red;}
+.np-1{width:1202px;height: 546px;border:1px solid #999999;margin:15px 0 0 30px;overflow: hidden;}
+.np-2{width:380px;height:546px;border-right:1px solid #999999;float: left;}
+.np-2 img{width:380px;height:380px;}
+.np-3{width:627px;height:510px;float: left;border-right:1px solid #999999;}
+.np-3-1{width:627px;height:88px;border-bottom:1px dashed #999999;}
+.np-3-1 h1{margin:10px 0 0 18px;font-size:18px;}
+.np-3-1 h3{margin:10px 0 0 18px;color:#dd4640;font-size:16px;}
+.np-3-2{width:627px;height:422px;}
+.np-3-2 ul{margin-left:18px;}
+.l1 .dt{float: left;}
+.li .dd{float:left;}
+.l2 .dt{float: left;}
+.l2 .dd{float:left;color:#ff4400;}
+
+
+#footer{height: 204px;background:#f2f2f2;text-align: center;border-top:1px solid black;}
+.footer-3{padding:20px 0 0 324px;}
+#footer ul li{width:75px;float: left;}
+#footer ul li a:hover{color:cornflowerblue}
+.footer-1{width:368px;margin-left:445px;color: #666666;font:12px/33px "";}
